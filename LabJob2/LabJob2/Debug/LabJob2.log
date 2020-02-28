@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\danil\source\Лабы\LabJob2\LabJob2\main.c(11,19): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LabJob2.vcxproj -> C:\Users\danil\source\Лабы\LabJob2\Debug\LabJob2.exe
